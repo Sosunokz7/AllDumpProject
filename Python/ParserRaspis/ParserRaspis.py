@@ -1,5 +1,6 @@
 import datetime,requests
 from bs4 import BeautifulSoup
+import os
 url='http://www.xn--c1adoj5aa.xn--p1ai/files/www/hg.htm'#Ссылка на сайт
 
 week_day={
@@ -14,15 +15,15 @@ week_day={
 
 
 Russ_alf=[chr (i) for i in range(ord('А'),ord('я')+1)]#Русский алфавит от А доя Я (включая малые регисты)
-need_group=input()
-if need_group=='':
-	need_group='ИС-17-9'
+
+
 
 def to_week():#Получение сегоднешнего дня
 	dat_week=int(datetime.datetime.today().isoweekday())
 	dat=datetime.date.today()
 
 	print('Дата на ваших часах: '+str(dat)+' '+str(week_day[dat_week]))
+	
 
 def get_html(url):#Получение html кода
 	r=requests.get(url)
@@ -57,6 +58,7 @@ def make_good_raspis(bad_raspis):#Преведение начала списка
 
 	for i in range (0,5):
 		print(bad_raspis[i])
+	
 
 def srez_kabinet_and_prepod(pred_srez_raspis):#Создает срез кабинетов и преподавателей ,для всех пар на
 	string_for_kabinet=['','','','','']#Строка в которй буду хранится все номера кобинетов
@@ -119,16 +121,27 @@ def get_soup_time(html):
 
 def main():
 
+
+		
 	html=get_html(url)
 	bad_raspis=get_raspis(html)#Преподы ,пары,кабинеты, но до комфортного вида 
 
 	srez_kabinet_and_prepod(make_good_raspis(bad_raspis))#Полностью готовый (Комфортный вид)
-	
+		
 	print('Дата на сайте: '+get_soup_time(html))
-	
+		
 
 	to_week()
+	
  
 
 if __name__=='__main__':
-	main()
+	while True:
+		need_group=input('Введите группу:	')
+		
+		if need_group=='':
+			need_group='ИС-17-9'
+		main()
+
+			
+	
