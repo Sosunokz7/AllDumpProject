@@ -1,0 +1,187 @@
+﻿<Page x:Class="ProjcForAukt.Pagings.AddNewLot"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="525"
+	Title="AddNewLot">
+
+    <Grid Background="Wheat">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5" />
+            <RowDefinition Height="35" />
+            <RowDefinition Height="40*" />
+            <RowDefinition Height="35" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="35" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="35" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="35" />
+           
+            
+            <RowDefinition Height="40*" />
+
+            <RowDefinition Height="20" />
+
+            <RowDefinition Height="35" />
+            
+            <RowDefinition Height="5" />
+            
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="150" />
+            <ColumnDefinition Width="100*" />
+            <ColumnDefinition Width="100*" />
+            <ColumnDefinition Width="100*" />
+
+
+            <ColumnDefinition Width="150" />
+            <ColumnDefinition Width="10" />
+        </Grid.ColumnDefinitions>
+
+
+        <TextBox
+            x:Name="InputNameLot"
+            Grid.Column="2"
+            Grid.Row="3"
+            Background="Cornsilk"
+            VerticalContentAlignment="Center"
+            />
+
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="3"
+            Text="Название лота"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Center" 
+            FontSize="15"
+            Margin="0,0,7,0"
+            />
+
+
+
+        <TextBox
+            x:Name="InputOpisanieLot"
+            Grid.Column="2"
+            Grid.Row="5"
+            VerticalContentAlignment="Center"
+            Background="Cornsilk"
+            
+            />
+
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="5"
+            Text="Описание лота"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Center" 
+            FontSize="15"
+            Margin="0,0,7,0"
+            
+            />
+
+        <TextBox
+            x:Name="InputPraisLot"
+            Grid.Column="2"
+            Grid.Row="7"
+            Background="Cornsilk"
+            VerticalContentAlignment="Center"
+            />
+
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="7"
+            Text="Начальная цена"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Center" 
+            FontSize="15"
+            Margin="0,0,7,0"
+            
+            />
+
+        <Grid Grid.ColumnSpan="7" Grid.RowSpan="14">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5" />
+                <RowDefinition Height="35*" />
+                <RowDefinition Height="40*" />
+                <RowDefinition Height="35" />
+                <RowDefinition Height="20" />
+                <RowDefinition Height="35*" />
+                <RowDefinition Height="20" />
+                <RowDefinition Height="35*" />
+                <RowDefinition Height="20" />
+                <RowDefinition Height="35" />
+
+
+                <RowDefinition Height="40*" />
+
+                <RowDefinition Height="20" />
+
+                <RowDefinition Height="35" />
+                <RowDefinition Height="50" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10" />
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="100*" />
+                <ColumnDefinition Width="100*" />
+                <ColumnDefinition Width="100*" />
+
+
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="10" />
+            </Grid.ColumnDefinitions>
+            <Image   
+            x:Name="FotaLota"
+            
+            Grid.Column="4"
+            Grid.Row="3"
+            Grid.ColumnSpan="2"
+            Grid.RowSpan="5"
+
+            
+            />
+
+            <Button
+            x:Name="AddImages"
+            Grid.Column="4"
+            Grid.Row="9"
+            Grid.ColumnSpan="2"
+            Content="Добавить фото"
+            
+            Click="AddImages_Click"
+            
+            
+            />
+        </Grid>  <!--Фотография + Кнопка-->
+
+        
+
+        <Button
+            
+            x:Name="TapRegist"
+            Grid.Column="1"
+            Grid.ColumnSpan="3"
+            Grid.Row="12"
+            Click="TapRegist_Click"
+            Content="Зарегистрировать лот"
+            
+        />
+
+        <Button
+            x:Name="Bac"
+            Grid.Column="1"
+            Grid.Row="1"
+            FontSize="25"
+            Content="Назад"
+            Click="Bac_Click"
+        />
+
+      
+    </Grid>
+</Page>

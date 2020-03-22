@@ -1,0 +1,147 @@
+﻿<Page x:Class="ProjcForAukt.Pagings.Auk"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProjcForAukt.Pagings"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Auk">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5" />
+            <RowDefinition Height="35" />
+            
+            <RowDefinition Height="80*" />
+            <RowDefinition Height="40*" />
+
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="75*" />
+            <ColumnDefinition Width="55*" />
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="200*" />
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="90*" />
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="90*" />
+            <ColumnDefinition Width="10" />
+
+        </Grid.ColumnDefinitions>
+
+        <Button
+            x:Name="Bac"
+            Grid.Column="1"
+            Grid.Row="1"
+            Content="Назад"
+            FontSize="25"
+            Click="Bac_Click"
+            />
+
+        <TextBlock
+            x:Name="NameLota"
+            Grid.Column="2"
+            Grid.Row="1"
+            Grid.ColumnSpan="3"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+    
+            FontSize="25"
+
+            />
+        <Image
+            x:Name="PhotLota"
+            Grid.Column="2"
+            Grid.Row="2"
+            Grid.ColumnSpan="5"
+            
+
+            />
+
+        <Button
+            x:Name="BuyLot"
+            Grid.Column="1"
+            Grid.Row="4"
+            Grid.ColumnSpan="2"
+            Content="Сделать ставку "
+            FontSize="25"
+            Click="BuyLot_Click"
+            
+            />
+
+        <Button
+            x:Name="NextLot"
+            Grid.Column="8"
+            Grid.Row="4"
+            FontSize="21"
+            Content="Следуюший лот"
+            
+            Click="NextLot_Click"
+
+            />
+
+
+            <Button
+            x:Name="AgoLot"
+            Grid.Column="6"
+            Grid.Row="4"
+            FontSize="21"
+            Content="Преведуший лот"
+            Click="AgoLot_Click"
+            
+        
+
+            />
+
+    <TextBlock
+        x:Name="LookNameLot"
+        Grid.Column="2"
+        Grid.Row="1"
+        
+        Grid.ColumnSpan="5"
+        FontSize="25"
+        HorizontalAlignment="Center"            
+        />
+
+    <TextBlock
+        x:Name="NowStavka"
+        Grid.Column="6"
+        Grid.ColumnSpan="3"
+        Grid.Row="1"
+        
+        FontSize="21"
+        HorizontalAlignment="Center"
+        />
+
+    <TextBox
+        x:Name="InputStacka"
+        Grid.Column="4"
+        Grid.Row="7"
+        Width="275"
+        VerticalAlignment="Center"
+        FontSize="21"
+        HorizontalAlignment="Center"
+        />
+
+        
+        <TextBlock
+            x:Name="Opisan"
+            Grid.Column="4"
+            Grid.Row="3"
+            TextWrapping="Wrap"
+            FontSize="20"
+            HorizontalAlignment="Center"
+            />
+            
+       
+
+
+
+
+
+
+    </Grid>
+</Page>

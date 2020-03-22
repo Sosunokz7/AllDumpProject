@@ -1,0 +1,110 @@
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\bin\Debug\ProjcForAukt.exe
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\bin\Debug\ProjcForAukt.pdb
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\obj\x86\Debug\MainWindow.baml
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\obj\x86\Debug\App.g.cs
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\obj\x86\Debug\ProjcForAukt_MarkupCompile.cache
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\obj\x86\Debug\ProjcForAukt.g.resources
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\obj\x86\Debug\ProjcForAukt.Properties.Resources.resources
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\obj\x86\Debug\ProjcForAukt.exe
+C:\Users\admlocal\AppData\Local\Temporary Projects\ProjcForAukt\obj\x86\Debug\ProjcForAukt.pdb
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.exe
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.pdb
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\bin\Debug\ProjcForAukt.exe
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\bin\Debug\ProjcForAukt.pdb
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\MainWindow.baml
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\App.g.cs
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt_MarkupCompile.cache
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.g.resources
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.Properties.Resources.resources
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Avtorizat.baml
+C:\Users\admlocal\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Avtorizat.g.cs
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\bin\Debug\ProjcForAukt.exe
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\bin\Debug\ProjcForAukt.pdb
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\MainWindow.baml
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Avtorizat.baml
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Avtorizat.g.cs
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\App.g.cs
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt_MarkupCompile.cache
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.g.resources
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.Properties.Resources.resources
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.exe
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.pdb
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Users.g.cs
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt_MarkupCompile.lref
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Users.baml
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\MakeUser.g.cs
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\MakeUser.baml
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.exe
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.pdb
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\bin\Debug\ProjcForAukt.exe
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\bin\Debug\ProjcForAukt.pdb
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Avtorizat.baml
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Avtorizat.g.cs
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\MakeUser.g.cs
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Users.g.cs
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\App.g.cs
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt_MarkupCompile.cache
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt_MarkupCompile.lref
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\MakeUser.baml
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Users.baml
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.g.resources
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.Properties.Resources.resources
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\App.baml
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Auk.g.cs
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Auk.baml
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\App.baml
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Auk.g.cs
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Auk.baml
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\MyBayLot.baml
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\MyBayLot.g.cs
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.exe
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.pdb
+C:\ProjcForAukt\ProjcForAukt\bin\Debug\ProjcForAukt.exe
+C:\ProjcForAukt\ProjcForAukt\bin\Debug\ProjcForAukt.pdb
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\MainWindow.baml
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Avtorizat.baml
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\MyBayLot.baml
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\App.baml
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\MainWindow.g.cs
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Auk.g.cs
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Avtorizat.g.cs
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\MakeUser.g.cs
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\MyBayLot.g.cs
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Users.g.cs
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\App.g.cs
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt_MarkupCompile.cache
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt_MarkupCompile.lref
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Auk.baml
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\MakeUser.baml
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\Users.baml
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.g.resources
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.Properties.Resources.resources
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ProjcForAukt\ProjcForAukt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\MyBayLot.baml
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\MyBayLot.g.cs
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\ForLotersi.baml
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\ForLotersi.g.cs
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\ForLotersi.baml
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\ForLotersi.g.cs
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\ProjcForAukt.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\AddNewLot.baml
+C:\Users\Admin\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\AddNewLot.g.cs
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\AddNewLot.baml
+C:\Users\PC\Desktop\ProjcForAukt\ProjcForAukt\obj\x86\Debug\Pagings\AddNewLot.g.cs

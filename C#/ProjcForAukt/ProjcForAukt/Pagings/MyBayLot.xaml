@@ -1,0 +1,83 @@
+﻿<Page x:Class="ProjcForAukt.Pagings.MyBayLot"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+	Title="MyBayLot">
+
+    <Grid Background="White">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5" />
+            <RowDefinition Height="35" />
+            <RowDefinition Height="70*" />
+            <RowDefinition Height="35" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="35" />
+            <RowDefinition Height="81*" />
+
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="75*" />
+            
+
+            <ColumnDefinition Width="200*" />
+            <ColumnDefinition Width="75*" />
+            <ColumnDefinition Width="15" />
+            <ColumnDefinition Width="75*" />
+            <ColumnDefinition Width="10" />
+
+        </Grid.ColumnDefinitions>
+
+        <Button
+            x:Name="Bac"
+            Grid.Column="1"
+            Grid.Row="1"
+            Content="Назад"
+            FontSize="25"
+            Click="Bac_Click"
+            />
+
+
+        <ListView x:Name="MyLotis" Grid.Column="1" Grid.ColumnSpan="4" Grid.Row="3" Grid.RowSpan="4">
+
+
+            <ListView.View >
+
+
+                <GridView>
+
+                    <GridViewColumn Header="Imag" Width="177">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Image Source="{Binding Imag}"/>
+                                </Grid>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn  Header="Номер лота" Width="80" DisplayMemberBinding="{Binding NumLot}" />
+
+                    <GridViewColumn Header="Название лота " Width="240" DisplayMemberBinding="{Binding NameLot}"/>
+
+                    <GridViewColumn Header="Цена лота" Width="150" DisplayMemberBinding="{Binding Prais}"/>
+
+
+
+                    <GridViewColumn Header="Адрес доставки" Width="150"  DisplayMemberBinding="{Binding Adres}"/>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Page>
+
+
+
+
+

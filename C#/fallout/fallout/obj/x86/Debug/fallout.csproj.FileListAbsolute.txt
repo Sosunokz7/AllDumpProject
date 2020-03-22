@@ -1,0 +1,16 @@
+C:\Users\Андрей\Desktop\CC\fallout\fallout\bin\Debug\fallout.exe
+C:\Users\Андрей\Desktop\CC\fallout\fallout\bin\Debug\fallout.pdb
+C:\Users\Андрей\Desktop\CC\fallout\fallout\obj\x86\Debug\fallout.exe
+C:\Users\Андрей\Desktop\CC\fallout\fallout\obj\x86\Debug\fallout.pdb
+C:\Users\Андрей\Desktop\bit\xzxzxz\CC\fallout\fallout\bin\Debug\fallout.exe
+C:\Users\Андрей\Desktop\bit\xzxzxz\CC\fallout\fallout\bin\Debug\fallout.pdb
+C:\Users\Андрей\Desktop\bit\xzxzxz\CC\fallout\fallout\obj\x86\Debug\fallout.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\bit\xzxzxz\CC\fallout\fallout\obj\x86\Debug\fallout.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\bit\xzxzxz\CC\fallout\fallout\obj\x86\Debug\fallout.exe
+C:\Users\Андрей\Desktop\bit\xzxzxz\CC\fallout\fallout\obj\x86\Debug\fallout.pdb
+Z:\C#\fallout\fallout\bin\Debug\fallout.exe
+Z:\C#\fallout\fallout\bin\Debug\fallout.pdb
+Z:\C#\fallout\fallout\obj\x86\Debug\fallout.csprojAssemblyReference.cache
+Z:\C#\fallout\fallout\obj\x86\Debug\fallout.csproj.CoreCompileInputs.cache
+Z:\C#\fallout\fallout\obj\x86\Debug\fallout.exe
+Z:\C#\fallout\fallout\obj\x86\Debug\fallout.pdb
