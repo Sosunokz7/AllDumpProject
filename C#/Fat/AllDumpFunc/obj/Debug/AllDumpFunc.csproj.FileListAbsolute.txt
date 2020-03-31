@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Fat\AllDumpFunc\bin\Debug\AllDumpFunc.dll
+C:\Users\PC\Desktop\Fat\AllDumpFunc\bin\Debug\AllDumpFunc.pdb
+C:\Users\PC\Desktop\Fat\AllDumpFunc\obj\Debug\AllDumpFunc.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Fat\AllDumpFunc\obj\Debug\AllDumpFunc.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Fat\AllDumpFunc\obj\Debug\AllDumpFunc.dll
+C:\Users\PC\Desktop\Fat\AllDumpFunc\obj\Debug\AllDumpFunc.pdb
