@@ -1,0 +1,61 @@
+﻿<Window x:Class="TextEbit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextEbit"
+        xmlns:ViewModel="clr-namespace:TextEbit.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" >
+
+    <Window.DataContext>
+        <ViewModel:MainViewModel/>
+    </Window.DataContext>
+    <Window.Resources>
+
+        <Style TargetType="TextBox" >
+            <Setter Property="AcceptsReturn" Value="True"/>
+            <Setter Property="AcceptsTab" Value="True"/>
+            <Setter Property="FontSize" Value="{Binding _FontSize,UpdateSourceTrigger=PropertyChanged}"/>
+            <Setter Property="FontFamily" Value="{Binding _FontFamily,UpdateSourceTrigger=PropertyChanged}"/>
+            <Setter Property="Text" Value="{Binding _Text,UpdateSourceTrigger=PropertyChanged}"/>
+
+        </Style>
+
+    </Window.Resources>
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Menu >
+            
+                <MenuItem Header="Файл" >
+                    <MenuItem Command="{Binding OpenFile}" Header="Открыть"/>
+                    <MenuItem Command="{Binding JastSaveFile}" Header="Сохранить"/>
+                    <MenuItem Command="{Binding SaveFileAs}" Header="Сохранить как"/>
+
+
+                </MenuItem>
+
+                <MenuItem Header="Параметры" Command="{Binding Parameters}" >
+
+                </MenuItem>
+                
+                
+           
+        </Menu>
+      
+
+        <ScrollViewer Grid.Row="1">
+            <TextBox 
+               
+            />
+        </ScrollViewer>
+
+        
+
+    </Grid>
+</Window>

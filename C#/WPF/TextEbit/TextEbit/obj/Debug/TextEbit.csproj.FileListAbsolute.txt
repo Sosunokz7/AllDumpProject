@@ -1,0 +1,17 @@
+C:\Users\UsId\Desktop\TextEbit\TextEbit\bin\Debug\TextEbit.exe.config
+C:\Users\UsId\Desktop\TextEbit\TextEbit\bin\Debug\TextEbit.exe
+C:\Users\UsId\Desktop\TextEbit\TextEbit\bin\Debug\TextEbit.pdb
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\TextEbit.csprojAssemblyReference.cache
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\View\MainWindow.g.cs
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\App.g.cs
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\TextEbit_MarkupCompile.cache
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\TextEbit_MarkupCompile.lref
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\View\MainWindow.baml
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\TextEbit.g.resources
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\TextEbit.Properties.Resources.resources
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\TextEbit.csproj.GenerateResource.cache
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\TextEbit.csproj.CoreCompileInputs.cache
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\TextEbit.exe
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\TextEbit.pdb
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\App.baml
+C:\Users\UsId\Desktop\TextEbit\TextEbit\obj\Debug\GeneratedInternalTypeHelper.g.cs
